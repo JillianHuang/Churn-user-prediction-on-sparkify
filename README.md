@@ -3,7 +3,7 @@
 ## 1 Introduction
 The project is aiming to predict the churn users from the user logging data on a musical service platform called **Sparkify**.
 
-In the project, I used `spark.sql` to do the EDA, and used `spark.ml` to built the prediction model to identify users who are at risk to churn .
+In the project, I used `spark.sql` to do the EDA, and used `spark.ml` to built the prediction model to identify users who are at risk to churn . For more detailed information, please visit [my blog](https://zhuanlan.zhihu.com/p/120244148).
 ## 2 Dataset 
 The dataset(231M) is a subset of the full dataset(12G), it helps to explore and train the model on local server. I downloaded it from Udacity's classroom. 
 The dateset has 18 columns as follow:
