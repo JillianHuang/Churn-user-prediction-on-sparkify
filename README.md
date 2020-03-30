@@ -92,3 +92,7 @@ with the model i built, i find out that the 5 most important features are "newes
 * `datetime`
 * `matplotlib`
 * `httpagentparser`
+
+# Reference link
+Dataset: https://video.udacity-data.com/topher/2018/December/5c1d6681_medium-sparkify-event-data/medium-sparkify-event-data.json
+Model evaluation: https://www.zhihu.com/question/30643044/answer/224360465；https://zh.wikipedia.org/wiki/ROC%E6%9B%B2%E7%BA%BF
